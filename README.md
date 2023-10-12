@@ -1,4 +1,4 @@
-# Personal Project: MySQL DBMS CLI (Command-Line Interface) with Python
+# MySQL DBMS CLI (Command-Line Interface) with Python
 
 The MySQL DBMS CLI (Command-Line Interface) with Python is a user-friendly tool that allows you to interact with a MySQL database from the command line. 
 You can use it to execute SQL queries, manage databases and tables, and perform other administrative tasks.
